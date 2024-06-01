@@ -25,15 +25,15 @@ CORELS is an algorithm that generates rule lists with provable optimality. It fo
 
 ### RuleOPT
 - Placeholder for RuleOPT author(s)
-- [Original Paper/Repository](#)
+- [https://github.com/sametcopur/ruleopt](#)
 
 ### Interpretable Decision Sets (IDS)
 - Lakkaraju et al. (2020)
-- [Original Paper/Repository](#)
+- [https://github.com/jirifilip/pyIDS](#)
 
 ### CORELS
 - Placeholder for CORELS author(s)
-- [Original Paper/Repository](#)
+- [https://github.com/corels/corels](#)
 
 ## Installation
 
