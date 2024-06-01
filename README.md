@@ -1,3 +1,4 @@
+
 # XAI_Thesis
 # Rule-Based Method Comparison Using Mathematical Optimization
 
@@ -24,15 +25,16 @@ CORELS is an algorithm that generates rule lists with provable optimality. It fo
 ## Authors and References
 
 ### RuleOPT
-- Placeholder for RuleOPT author(s)
+- Lumadjeng et al.,
 - [https://github.com/sametcopur/ruleopt](#)
+- [[https://github.com/sametcopur/ruleopt](#)](#)
 
 ### Interpretable Decision Sets (IDS)
 - Lakkaraju et al. (2020)
 - [https://github.com/jirifilip/pyIDS](#)
+- [https://cs.stanford.edu/people/jure/pubs/interpretable-kdd16.pdf](#)
 
 ### CORELS
-- Placeholder for CORELS author(s)
 - [https://github.com/corels/corels](#)
 
 ## Installation
