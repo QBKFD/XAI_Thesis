@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+pyarc
+gmpy2
+scipy
+ruleopt
+corels
+IDS
