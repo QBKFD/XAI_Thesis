@@ -8,7 +8,7 @@ from pyids.model_selection.coordinate_ascent import CoordinateAscent
 
 from pyarc.qcba.data_structures import QuantitativeDataFrame
 
-
+#Import data
 url = "https://raw.githubusercontent.com/jirifilip/pyids/master/data/titanic.csv"
 s = requests.get(url).content
 df = pd.read_csv(io.StringIO(s.decode('utf-8')))
@@ -24,7 +24,7 @@ def fmax(lambda_dict):
     print(auc)
     return auc
 
-
+#Iterate through parameters
 
 coord_asc = CoordinateAscent(
     func=fmax,
@@ -40,5 +40,5 @@ coord_asc = CoordinateAscent(
     ternary_search_precision=50,
     max_iterations=3
 )
-
+#Fit lambdas
 best_lambdas = coord_asc.fit()
