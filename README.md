@@ -57,8 +57,8 @@ The baseline algorithms tested are:
 
 ### MDL
 - Proença, van Leeuwen
--[https://github.com/HMProenca/MDLRuleLists](#)
--[https://arxiv.org/abs/1905.00328](#)
+- [https://github.com/HMProenca/MDLRuleLists](#)
+- [https://arxiv.org/abs/1905.00328](#)
 
 ## Installation
 
