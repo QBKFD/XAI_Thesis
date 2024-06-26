@@ -35,9 +35,9 @@ The baseline algorithms tested are:
 
 ## Hypertuning
 
-# GridSearchCV:
+### GridSearchCV:
 - RuleOpt
-# Internal lambda parameters
+### Internal lambda parameters
 - IDS
 
 ## Authors and References
