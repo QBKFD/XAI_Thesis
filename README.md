@@ -1,4 +1,4 @@
-# XAI_Thesis
+# XAI Thesis Project
 # Rule-Based Methods Comparison Using Mathematical Optimization
 
 This repository contains the implementation and comparison of rule-based methods using mathematical optimization techniques. The primary focus is on comparing the following algorithms:
