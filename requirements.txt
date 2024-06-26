@@ -7,3 +7,4 @@ scipy
 ruleopt
 corels
 IDS
+pyfim
